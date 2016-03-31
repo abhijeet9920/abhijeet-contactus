@@ -1,0 +1,14 @@
+{
+    "name": "abhijeet/contactus",
+    "description": "A small package for managing contact us form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abhijeet9920",
+            "email": "abhijeet@ambab.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
