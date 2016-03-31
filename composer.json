@@ -3,6 +3,7 @@
     "description": "A small package for managing contact us form",
     "type": "library",
     "license": "MIT",
+    "keywords": ["laravel"],
     "authors": [
         {
             "name": "abhijeet9920",
@@ -10,5 +11,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abhijeet\\Contact\\": "src/"
+        }
+    }
 }
